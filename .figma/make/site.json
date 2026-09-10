@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a stunning personal portfolio website designed for B.Tech students and frontend developers, enhancing professional visibility.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
