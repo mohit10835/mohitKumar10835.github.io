@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import { useEffect, useState } from 'react'
-import profilePhoto from '../imports/image.png'
+import profilePhoto from '../imports/profile.png'
 import resumePDF from '../imports/mohit_resume.pdf'
 
 const techIcons = [
